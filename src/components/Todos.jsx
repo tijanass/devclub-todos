@@ -61,7 +61,7 @@ class Todos extends Component {
         return (
             <div>
                 <div className="todoes-container row w-75 h-50 mx-auto mt-5 h-500 shadow">
-                    <div className="col-5 bg-dark-pink p-5 rounded-left">
+                    <div className="col-md-5 bg-dark-pink p-5 rounded-left">
                         <div className="m-auto d-block">
                             <h1 className="h3 text-center mb-5">My Tasks</h1>
                             <label>Task:</label>
@@ -103,7 +103,7 @@ class Todos extends Component {
                                 onElementsClick={this.filterTasks}/>
                         </div>
                     </div>
-                    <div className="col-7 bg-light rounded-right font-gray p-5">
+                    <div className="col-md-7 bg-light rounded-right font-gray p-5">
                         <h3 className="mb-4">Tasks</h3>
                         {
                             tasks.map((task, index) =>
