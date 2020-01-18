@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/devclub-todos/static/css/main.7643c4a0.chunk.css",
-    "main.js": "/devclub-todos/static/js/main.df64e49f.chunk.js",
-    "main.js.map": "/devclub-todos/static/js/main.df64e49f.chunk.js.map",
+    "main.js": "/devclub-todos/static/js/main.100179a1.chunk.js",
+    "main.js.map": "/devclub-todos/static/js/main.100179a1.chunk.js.map",
     "runtime-main.js": "/devclub-todos/static/js/runtime-main.5fec2a90.js",
     "runtime-main.js.map": "/devclub-todos/static/js/runtime-main.5fec2a90.js.map",
     "static/css/2.67123b20.chunk.css": "/devclub-todos/static/css/2.67123b20.chunk.css",
     "static/js/2.a887e80e.chunk.js": "/devclub-todos/static/js/2.a887e80e.chunk.js",
     "static/js/2.a887e80e.chunk.js.map": "/devclub-todos/static/js/2.a887e80e.chunk.js.map",
     "index.html": "/devclub-todos/index.html",
-    "precache-manifest.ce16b27695b620d8a2a45367dc68c704.js": "/devclub-todos/precache-manifest.ce16b27695b620d8a2a45367dc68c704.js",
+    "precache-manifest.504628e8121b4eb989662c12e30a4e88.js": "/devclub-todos/precache-manifest.504628e8121b4eb989662c12e30a4e88.js",
     "service-worker.js": "/devclub-todos/service-worker.js",
     "static/css/2.67123b20.chunk.css.map": "/devclub-todos/static/css/2.67123b20.chunk.css.map",
     "static/css/main.7643c4a0.chunk.css.map": "/devclub-todos/static/css/main.7643c4a0.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.67123b20.chunk.css",
     "static/js/2.a887e80e.chunk.js",
     "static/css/main.7643c4a0.chunk.css",
-    "static/js/main.df64e49f.chunk.js"
+    "static/js/main.100179a1.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "922335f40a5d61f370cdece6d66ae4d4",
+    "revision": "9cf47bf9b638119f9b16b24c5e081cc1",
     "url": "/devclub-todos/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/devclub-todos/static/css/2.67123b20.chunk.css"
   },
   {
-    "revision": "b2d7f3f6dc4fd51bfc06",
+    "revision": "69bad9f014f28af1c3e3",
     "url": "/devclub-todos/static/css/main.7643c4a0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/devclub-todos/static/js/2.a887e80e.chunk.js.LICENSE"
   },
   {
-    "revision": "b2d7f3f6dc4fd51bfc06",
-    "url": "/devclub-todos/static/js/main.df64e49f.chunk.js"
+    "revision": "69bad9f014f28af1c3e3",
+    "url": "/devclub-todos/static/js/main.100179a1.chunk.js"
   },
   {
     "revision": "98f29d309d39c51dbc24",
